@@ -10,7 +10,8 @@ print("")
 print("What do you want to do next?")
 print("1. Look around [yellow]West Broadway[/yellow]")
 print("2. Go to school at [red]SFU[/red]")
-
+booking = 0
+enter = 0
 walk = input("Make a choice!:")
 system("clear||cls")
 if walk == "1":
